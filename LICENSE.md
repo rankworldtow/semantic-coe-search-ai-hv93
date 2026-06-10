@@ -1,4 +1,4 @@
-# 
+# VIP Semantic Code Search ferramentas. Com sincronização em nuvem e sistema de plugins — otimizado para máximo desempenho e eficiência.
 
 
 
